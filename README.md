@@ -21,12 +21,15 @@ It can however view any two assets side-by-side. It is intended to run on your l
 2. If you need to view just 1 asset, upload an empty file, or just the same file again.
 3. Same applies for news file upload. If you don't have news data, try an empty file
 4. Hardcoded watermark on the chart, this was what I needed when I built it but seems redundant now.
+5. All timezones are in America/NewYork.
+6. There is no option to resample into a different resolution.
 
 # Future Improvements
-1. Integrate with snowlfake or polygon.io
-2. Dyanamic subcharts instead of two charts hardcoded
-3. Dynamic asset name watermark
-4. Selecting news filter should not re-render the charts
-5. Option to not upload a news file
+1. Integrate with snowlfake or polygon.io.
+2. Dyanamic subcharts instead of two charts hardcoded.
+3. Dynamic asset name watermark.
+4. Selecting news filter should not re-render the charts.
+5. Option to not upload a news file.
 
-
+# Screenshot
+![Alt text](/screenshot/screenshot.png?raw=true)
